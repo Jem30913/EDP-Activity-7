@@ -1,0 +1,20 @@
+# Build artifacts
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# IDE & editor files
+.vs/
+*.user
+*.suo
+*.lscache
+
+# Local config
+.claude/
+CLAUDE.md
+
+# OS files
+Thumbs.db
+.DS_Store
